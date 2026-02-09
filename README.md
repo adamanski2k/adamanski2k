@@ -1,4 +1,16 @@
-## Hi there 👋
+# Adam [Surname] — Cyber Security (Edinburgh)
+
+Career transition into SOC / Security Operations.  
+Portfolio: https://github.com/adamanski2k/cyber-portfolio
+
+## Current focus
+- Mini-SOC home lab (Pi 5 + SSD)
+- Incident response case studies
+- Detection fundamentals (network + host)
+
+## Contact
+- LinkedIn: linkedin.com/in/adam-cant-48b898390
+
 
 <!--
 **adamanski2k/adamanski2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
