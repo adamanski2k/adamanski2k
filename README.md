@@ -1,4 +1,4 @@
-# Adam [Surname] — Cyber Security (Edinburgh)
+# Adam Cant — Cyber Security (Edinburgh)
 
 Career transition into SOC / Security Operations.  
 Portfolio: https://github.com/adamanski2k/cyber-portfolio
